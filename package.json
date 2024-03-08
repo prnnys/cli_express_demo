@@ -1,0 +1,21 @@
+{
+  "name": "cli_express_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-router": "^0.0.1",
+    "cli_express_boiler_code": "^1.2.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prnnys/cli_express_demo.git"
+  }
+}
